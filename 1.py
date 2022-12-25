@@ -1,4 +1,4 @@
-import time 
+import time #Молодець
 class Student:
     timer=10
     month=0
